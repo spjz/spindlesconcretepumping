@@ -1,0 +1,27 @@
+{
+  "name": "spindlesconcretepumping",
+  "authors": [
+    "sPJz <io@spjz.uk>"
+  ],
+  "description": "Spindle's Concrete Pumping",
+  "main": "index.php",
+  "keywords": [
+    "phalcon",
+    "foundation-sites",
+    "font-awesome-5"
+  ],
+  "license": "CC BY-NC-SA",
+  "homepage": "https://spindlesconcretepumping.co.uk",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "font-awesome-5": "^5.2.0",
+    "foundation-sites": "^6.4.3"
+  }
+}
